@@ -91,9 +91,9 @@ I maintain **weekly reflection logs** to document progress, challenges, and key 
 These act as a personal journal and help track growth over time.  
 
 - 📖 [Week 1 Reflections](./logs/week1_reflections.md)  
-- 📖 [Week 2 Reflections](./logs/week2_reflections.md)  
-- 📖 [Week 3 Reflections](./logs/week3_reflections.md)  
-- 📖 [Week 4 Reflections](./logs/week4_reflections.md)  
+- 📖 Week 2 Reflections  
+- 📖 Week 3 Reflections  
+- 📖 Week 4 Reflections  
 
 👉 Each log includes:  
 - ✅ Completed tasks  
