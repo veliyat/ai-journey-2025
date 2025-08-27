@@ -13,7 +13,7 @@ To stay consistent while adapting to different schedules, I designed **multiple 
 
 - 🕐 **[RoadMap1h](./roadmaps/RoadMap1h.md)** → Gentle pace (~1h/day)  
 - ⏱️ **[RoadMap2h](./roadmaps/RoadMap2h.md)** → Balanced (~2h/day)  
-- ⏳ **[RoadMap3h](./roadmaps/RoadMap3h.md)** → Deep (~3h/day)  
+- ⏳ **[RoadMap3h](./roadmaps/RoadMap3h.md)** → Deep dive (~3h/day)  
 - 🔥 **[RoadMap4h](./roadmaps/RoadMap4h.md)** → Intensive (~4h/day)  
 
 👉 The main one I’m following is **[RoadMapUltimate](./roadmaps/RoadMapUltimate.md)** — a **tiered roadmap** where each day can expand from **1h → 4h** depending on my availability.  
