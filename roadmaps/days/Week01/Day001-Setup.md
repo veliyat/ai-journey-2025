@@ -10,13 +10,13 @@
 
 ```bash
 # Create venv
-python3.11 -m venv venv  
+python -m venv .venv  
 
 # Activate (Linux/macOS)
-source venv/bin/activate  
+source .venv/bin/activate  
 
 # Activate (Windows)
-venv\Scripts\activate
+.venv\Scripts\activate
 ```  
 
 - Install dependencies:  
