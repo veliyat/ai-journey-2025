@@ -26,6 +26,7 @@
 - [Day 005 — Dictionaries](./days/Week01/Day005-Dictionaries.md)  
 - [Day 006 — Reflection](./days/Week01/Day006-Reflection.md)  
 
+📌 **Quick Access:** [Week 01 Overview](./days/Week01/README.md)
 ---
 
 ## ✅ Deliverables by End of Week 1

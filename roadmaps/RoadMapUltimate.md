@@ -36,8 +36,8 @@
 - [Day 005 — Dictionaries](./days/Week01/Day005-Dictionaries.md)  
 - [Day 006 — Reflection](./days/Week01/Day006-Reflection.md)  
 
-*(Weeks 2–26 follow the same pattern — each day has all 4 tiers in its file.)*  
-
+📌 **Quick Access:** [Week 01 Overview](./days/Week01/README.md)
+*(Weeks 2–26 follow the same pattern — each day has all 4 tiers in its file.)*
 ---
 
 ## ✅ Why This Roadmap?
