@@ -1,70 +1,65 @@
-# RoadMap1h (1 hour/day pace) — Week 1
+# 🕐 RoadMap1h — Gentle Pace (~1 hour/day)
 
-**Theme:** Setup & Python Basics  
-**Time:** ~1h/day × 6 days = 6 hours total  
-
-# 📖 Choose Your Adventure (Optional References)   
-- *Automate the Boring Stuff with Python* [Webstite](https://automatetheboringstuff.com/)
-- FreeCodeCamp: [Python for Beginners (4-hour video)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
-- Corey Schafer [YouTube playlist: Python Basics](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)  
-- [Real Python tutorials: Lists & Dictionaries](https://realpython.com/)
-- *Python Crash Course* (Eric Matthes)
+**Theme:** Gentle, steady pace (~24h/month).  
+**Goal:** Build Python basics, explore data handling, touch ML, and complete v1 versions of Finance & EdTech projects.  
 
 ---
 
-### **Day 1 (1h) — Environment Setup & Repo Initialization**  
-- Install Python + Cursor (main IDE)  
-- Create & activate virtual environment  
-- Install dependencies (`numpy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`)  
-- Initialize GitHub repo `ai-journey-2025`  
-- Add `.gitignore`, `requirements.txt`, `README.md`  
-- First commit & push  
+## 🧭 How to Use This Roadmap
 
-✅ Deliverable: Basic repo structure pushed to GitHub  
-
----
-
-### **Day 2 (1h) — Python Basics**  
-- Learn/review variables, data types, and operators  
-- Write small programs (calculator, temperature converter)  
-- Notebook: add exercises for loops (`for`, `while`)  
-
-✅ Deliverable: `week1_basics.ipynb` started with simple examples  
+- Each **day’s detailed breakdown** lives in the [`/days/Week##/`](./days) folder.  
+- At the 1h/day pace, just follow the **Tier 1 (Core)** section in each Day file.  
+- If you have more time on certain days, check out:  
+  - [RoadMap2h](./RoadMap2h.md)  
+  - [RoadMap3h](./RoadMap3h.md)  
+  - [RoadMap4h](./RoadMap4h.md)  
+  - or the flexible [RoadMapUltimate](./RoadMapUltimate.md)  
 
 ---
 
-### **Day 3 (1h) — Functions**  
-- Define functions for small tasks (factorial, Fibonacci, palindrome check)  
-- Practice function arguments and return values  
-- Notebook: add examples + docstrings  
+## 📅 Week 1 — Setup & Python Basics
 
-✅ Deliverable: Updated notebook with basic functions  
-
----
-
-### **Day 4 (1h) — Lists**  
-- Learn list creation, indexing, slicing, and iteration  
-- Exercises: reverse a list, find max/min, sum elements  
-- Notebook: list practice section  
-
-✅ Deliverable: Notebook updated with list exercises  
+- [Day 001 — Environment Setup](./days/Week01/Day001-Setup.md)  
+- [Day 002 — Python Basics](./days/Week01/Day002-Python-Basics.md)  
+- [Day 003 — Functions](./days/Week01/Day003-Functions.md)  
+- [Day 004 — Lists](./days/Week01/Day004-Lists.md)  
+- [Day 005 — Dictionaries](./days/Week01/Day005-Dictionaries.md)  
+- [Day 006 — Reflection](./days/Week01/Day006-Reflection.md)  
 
 ---
 
-### **Day 5 (1h) — Dictionaries**  
-- Learn dictionary creation and key-value access  
-- Mini-exercise: word frequency counter (count words in a string)  
-- Notebook: dict practice section  
+## ✅ Deliverables by End of Week 1
 
-✅ Deliverable: Notebook updated with dictionary exercises  
+- Repo initialized and pushed to GitHub  
+- Notebook `week1_basics.ipynb` (variables → dicts)  
+- Reflection log: `logs/week1_reflections.md`  
 
 ---
 
-### **Day 6 (1h) — Reflection & Log Update**  
-- Summarize what you learned this week in `logs/week1_reflections.md`  
-- Add completed notebook(s) to GitHub  
-- Quick review of Python basics learned (variables, loops, functions, lists, dicts)  
+## 🎯 Why This Roadmap?
 
-✅ Deliverables: Reflection log updated, Week 1 content pushed  
+- Designed for **busy schedules** (1h/day)  
+- Keeps momentum by shipping **something small every day**  
+- Fits seamlessly with the **day-by-day detailed files** in `/days/Week##/`  
+- Scales up easily if you want to switch to 2h–4h pace  
+
+---
+
+## 📖 Suggested References
+
+Choose whichever resource fits your style — you don’t need them all.  
+
+**Books**  
+- *Python Crash Course* (Eric Matthes)  
+- *Automate the Boring Stuff with Python* (Al Sweigart)  
+- *Python for Data Analysis* (Wes McKinney)  
+
+**Videos**  
+- [FreeCodeCamp: Python for Beginners (4-hour video)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
+- [Corey Schafer: Python Basics playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)  
+
+**Blogs/Tutorials**  
+- [Real Python](https://realpython.com/) — beginner-friendly guides  
+- [Towards Data Science](https://towardsdatascience.com/) — data-focused tutorials  
 
 ---
