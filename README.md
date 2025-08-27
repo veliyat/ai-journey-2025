@@ -3,7 +3,7 @@
 Welcome to **AI Journey 2025** — my structured learning path into **Applied AI**, with a focus on **Finance** and **EdTech** projects.  
 This repo serves as my **hub**, containing roadmaps, logs, and references to project repos.
 
-⚡ For frequent visitors: Head directly to the [Daily Tag Cloud](#-daily-tag-cloud) at the end to access all days without scrolling through this README again.
+⚡ For frequent visitors: Head directly to the [Daily Tag Cloud](#-daily-tag-cloud) at the end.
 
 ---
 
