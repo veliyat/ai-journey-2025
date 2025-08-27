@@ -17,6 +17,7 @@ This log captures my notes, learnings, and reflections from **Week 1**.
 - [x] First commit & push to GitHub
 - [x] Created test notebook `week1_basics.ipynb` and verified imports
 - [x] Saved screenshot of setup in assets/
+- [x] Created flexible roadmaps and started with contributing to the 1 hour roadmap Week 1
 
 **What I Learned Today**
 - How to set up a clean Python project environment using venv
