@@ -28,6 +28,7 @@
 ---
 
 ## 📅 Week 1 — Setup & Python Basics
+#### 🔗 [Week 01 Overview](./days/Week01/README.md)
 
 - [Day 001 — Environment Setup](./days/Week01/Day001-Setup.md)  
 - [Day 002 — Python Basics](./days/Week01/Day002-Python-Basics.md)  
@@ -36,7 +37,6 @@
 - [Day 005 — Dictionaries](./days/Week01/Day005-Dictionaries.md)  
 - [Day 006 — Reflection](./days/Week01/Day006-Reflection.md)  
 
-📌 **Quick Access:** [Week 01 Overview](./days/Week01/README.md)
 *(Weeks 2–26 follow the same pattern — each day has all 4 tiers in its file.)*
 ---
 
