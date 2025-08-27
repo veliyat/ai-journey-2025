@@ -1,7 +1,22 @@
 # AI Journey 2025 🚀
 
-This repository documents my personal journey into **Applied Artificial Intelligence in 2025**.  
-The focus is on learning by building — creating projects that are practical, well-documented, and teachable.
+Welcome to **AI Journey 2025** — my structured learning path into **Applied AI**, with a focus on **Finance** and **EdTech** projects.  
+This repo serves as my **hub**, containing roadmaps, logs, and references to project repos.  
+
+---
+
+## 📌 Roadmaps  
+
+To stay consistent while adapting to different schedules, I designed **multiple learning roadmaps**:  
+
+- 🕐 **[RoadMap1h](./roadmaps/RoadMap1h.md)** → Gentle pace (~1h/day)  
+- ⏱️ **[RoadMap2h](./roadmaps/RoadMap2h.md)** → Balanced (~2h/day)  
+- ⏳ **[RoadMap3h](./roadmaps/RoadMap3h.md)** → Deep (~3h/day)  
+- 🔥 **[RoadMap4h](./roadmaps/RoadMap4h.md)** → Intensive (~4h/day)  
+
+👉 The main one I’m following is **[RoadMapUltimate](./roadmaps/RoadMapUltimate.md)** — a **tiered roadmap** where each day can expand from **1h → 4h** depending on my availability.  
+
+📖 See the [📚 Roadmaps Overview](./roadmaps/README.md) for details.  
 
 ---
 
@@ -21,17 +36,17 @@ The focus is on learning by building — creating projects that are practical, w
 
 ---
 
-## 📂 Structure
+## 📂 Repo Structure  
 
-```
+```bash
 ai-journey-2025/
-├── README.md              # Project overview
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Ignore venv, caches, data, etc.
-├── notebooks/             # Jupyter notebooks for experiments
-├── projects/              # Mini-projects with docs
-├── logs/                  # Reflections & progress notes
-└── assets/                # Screenshots, plots, diagrams
+├── roadmaps/        # All learning roadmaps (1h, 2h, 3h, 4h, Ultimate)
+├── notebooks/       # Jupyter notebooks (Python basics, Pandas, ML, NLP, etc.)
+├── projects/        # Links & descriptions of Finance & EdTech projects
+├── logs/            # Weekly reflections & progress notes
+├── assets/          # Images, plots, and screenshots
+├── requirements.txt # Dependencies
+└── README.md        # Main repo readme (this file)
 ```
 
 ---
