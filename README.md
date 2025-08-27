@@ -85,9 +85,34 @@ ai-journey-2025/
 
 ---
 
-## 📝 Logs
-Weekly reflections and progress notes are stored in `logs/`  
-Example: `logs/week1_reflections.md`
+## 📝 Weekly Reflections  
+
+I maintain **weekly reflection logs** to document progress, challenges, and key learnings throughout the journey.  
+These act as a personal journal and help track growth over time.  
+
+- 📖 [Week 1 Reflections](./logs/week1_reflections.md)  
+- 📖 [Week 2 Reflections](./logs/week2_reflections.md)  
+- 📖 [Week 3 Reflections](./logs/week3_reflections.md)  
+- 📖 [Week 4 Reflections](./logs/week4_reflections.md)  
+
+👉 Each log includes:  
+- ✅ Completed tasks  
+- ⚡ Key learnings  
+- 🚧 Challenges faced  
+- 🎯 Next steps  
+
+---
+
+## 🎯 Goal  
+
+By the end of **Month 1**, I aim to have:  
+- A structured repo hub with notebooks & logs  
+- Two working project repos (Finance + EdTech, v1–v2 versions)  
+- A milestone blog/LinkedIn post documenting my first month  
+
+---
+
+⚡ *This repo is both my personal learning record and a resource for others who want to follow along.*  
 
 ---
 
