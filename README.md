@@ -42,13 +42,34 @@ To stay consistent while adapting to different schedules, I designed **multiple 
 
 ```bash
 ai-journey-2025/
-├── roadmaps/        # All learning roadmaps (1h, 2h, 3h, 4h, Ultimate)
-├── notebooks/       # Jupyter notebooks (Python basics, Pandas, ML, NLP, etc.)
-├── projects/        # Links & descriptions of Finance & EdTech projects
-├── logs/            # Weekly reflections & progress notes
-├── assets/          # Images, plots, and screenshots
-├── requirements.txt # Dependencies
-└── README.md        # Main repo readme (this file)
+├── roadmaps/              # All learning roadmaps
+│   ├── README.md          # Roadmaps index & navigation
+│   ├── RoadMap1h.md       # Gentle pace (~1h/day)
+│   ├── RoadMap2h.md       # Balanced (~2h/day)
+│   ├── RoadMap3h.md       # Deep (~3h/day)
+│   ├── RoadMap4h.md       # Intensive (~4h/day)
+│   ├── RoadMapUltimate.md # Flexible tiered roadmap (1h → 4h)
+│   └── days/              # Detailed daily breakdowns
+│       ├── Week01/
+│       │   ├── README.md
+│       │   ├── Day001-Setup.md
+│       │   ├── Day002-Python-Basics.md
+│       │   ├── Day003-Functions.md
+│       │   ├── Day004-Lists.md
+│       │   ├── Day005-Dictionaries.md
+│       │   └── Day006-Reflection.md
+│       ├── Week02/
+│       │   ├── README.md
+│       │   └── Day007-...md
+│       └── Week03/
+│           └── ...
+├── notebooks/             # Jupyter notebooks (Python, Pandas, ML, NLP, etc.)
+├── projects/              # Links & descriptions of Finance & EdTech projects
+├── logs/                  # Weekly reflections & progress notes
+├── assets/                # Images, plots, and screenshots
+├── requirements.txt       # Dependencies
+└── README.md              # Main repo README (this file)
+
 ```
 
 ---
