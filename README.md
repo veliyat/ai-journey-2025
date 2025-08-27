@@ -1,7 +1,9 @@
 # AI Journey 2025 🚀
 
 Welcome to **AI Journey 2025** — my structured learning path into **Applied AI**, with a focus on **Finance** and **EdTech** projects.  
-This repo serves as my **hub**, containing roadmaps, logs, and references to project repos.  
+This repo serves as my **hub**, containing roadmaps, logs, and references to project repos.
+
+➡️ Jump to the [Daily Tag Cloud](#-daily-tag-cloud) at the end of this page to explore links for every single day.
 
 ---
 
@@ -119,3 +121,19 @@ By the end of **Month 1**, I aim to have:
 ## 📖 Author
 **Ravi Veliyat** — Technical Curriculum Creator & Trainer.  
 Exploring the intersection of **AI × Education × Practical Applications**.
+
+---
+
+## 🔖 Daily Tag Cloud
+
+**Week 01:**  
+[Day 001 — Setup](./roadmaps/days/Week01/Day001-Setup.md) •
+[Day 002 — Python Basics](./roadmaps/days/Week01/Day002-Python-Basics.md) •
+[Day 003 — Functions](./roadmaps/days/Week01/Day003-Functions.md) •
+[Day 004 — Lists](./roadmaps/days/Week01/Day004-Lists.md) •
+[Day 005 — Dictionaries](./roadmaps/days/Week01/Day005-Dictionaries.md) •
+[Day 006 — Reflection](./roadmaps/days/Week01/Day006-Reflection.md)
+
+<!-- Repeat block per week -->
+
+---
