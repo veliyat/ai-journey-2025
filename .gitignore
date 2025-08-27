@@ -1,1 +1,26 @@
-.venv
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (large CSVs, cache, etc.)
+data/
+*.csv
+
+# VS Code settings
+.vscode/
