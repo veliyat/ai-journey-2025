@@ -18,7 +18,8 @@ To stay consistent while adapting to different schedules, I designed **multiple 
 
 👉 The main one I’m following is **[RoadMapUltimate](./roadmaps/RoadMapUltimate.md)** — a **tiered roadmap** where each day can expand from **1h → 4h** depending on my availability.  
 
-📖 See the [📚 Roadmaps Overview](./roadmaps/README.md) for details.  
+📖 See the [📚 Roadmaps Overview](./roadmaps/README.md) for guidance on choosing between 1h–4h daily schedules or the flexible Ultimate roadmap.  
+📚 [Why Library](./logs/why.md) → Short explainers on *why* we use Python, Jupyter, Git, virtual environments, testing, and more.
 
 ---
 
