@@ -4,19 +4,23 @@
 
 ## 🕐 Tier 1 (1h) — Core  
 
-- Install **Python 3.11** and **Cursor** (main IDE)  
-
+- Install **Python 3.11** and **VS Code** 
+- Go to your desired project folder (eg. cd ~/Documents/projects/ai-journey-2025)
 - Create & activate a **virtual environment**:  
 
 ```bash
-# Create venv
+# Create a directory and navigate to that directory
+mkdir ~/Documents/projects/ai-journey-2025 
+cd ~/Documents/projects/ai-journey-2025
+
+# Create venv (for some installations "python3" might work instead of "python")
 python -m venv .venv  
 
 # Activate (Linux/macOS)
 source .venv/bin/activate  
 
 # Activate (Windows)
-.venv\Scripts\activate
+#.venv\Scripts\activate
 ```  
 
 - Install dependencies:  
@@ -26,14 +30,16 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 pip freeze > requirements.txt
 ```  
 
-- Initialize GitHub repo **ai-journey-2025**:  
+- Create a GitHub repo **ai-journey-2025** (No README to be added at the start)
+- Initialize a git repo on local machine and add that to our GitHub repo:  
 
 ```bash
 git init
 git add .
 git commit -m "Initial commit - project setup"
+#Replace "yourusername" with your GitHub username
+git remote add origin https://github.com/yourusername/my-ai-journey.git
 git branch -M main
-git remote add origin https://github.com/yourusername/ai-journey-2025.git
 git push -u origin main
 ```  
 
